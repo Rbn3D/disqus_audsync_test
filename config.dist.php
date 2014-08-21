@@ -7,7 +7,7 @@ define("DisqusApiSecret", "...");
 
 define("DisqusShortname", "...");
 
-define("BaseSitePath", "...");
+define("BaseSitePath", "..."); // Must match the configured forum domain (even if it's localhost)
 
 define("DisqusAudSyncAccessTokenURL", "...");
 

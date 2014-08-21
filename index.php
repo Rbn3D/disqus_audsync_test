@@ -4,9 +4,7 @@ include 'config.php';
 ?>
 <html>
 <head>
-	<script type="text/javascript">
-		var disqus_developer = 1;
-	</script>
+
 </head>
 <body>
 <h1>Audience Sync</h1>
